@@ -1,3 +1,3 @@
 # Tower-Defense
 
-Android Tower Defense Game. Work In Progress.
+Android Tower Defense Game. VERY MUCH A Work In Progress.
