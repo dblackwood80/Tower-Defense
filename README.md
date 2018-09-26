@@ -1,2 +1,2 @@
 # Cannon Defender
-Android Tower Defense Game. VERY MUCH A Work In Progress.
+Android Tower Defense Game. A Work In Progress.
